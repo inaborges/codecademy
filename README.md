@@ -6,6 +6,9 @@
 
 Repositório dos projetos realizados durante o curso de Data Science da Codecademy.
 
+## Sobre o curso:
+As empresas estão procurando tomadores de decisão orientados por dados, e este plano de carreira vai lhe ensinar as habilidades de que você precisa para se tornar exatamente isso. Você aprenderá a analisar dados, comunicar suas descobertas e até mesmo fazer previsões usando o aprendizado de máquina. Ao longo do caminho, você criará projetos dignos de portfólio que o ajudarão a se preparar para o trabalho.
+
 * Create programs using Python 3
 * Move off of the Codecademy platform with the Command Line, Jupyter Notebook, Git, and GitHub * Desktop
 * Acquire and query data with SQL and BeautifulSoup
