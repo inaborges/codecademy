@@ -2,7 +2,7 @@
 
 ![](codecademy-career-paths.png)
 
-![progress](https://progress-bar.dev/62/ "progress")
+![progress](https://progress-bar.dev/63/ "progress")
 
 Repositório dos projetos realizados durante o curso de Data Science da Codecademy.
 
