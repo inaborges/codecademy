@@ -11,6 +11,8 @@ As empresas estão procurando tomadores de decisão orientados por dados, e este
 
 ### Alguns dos conceitos explorados ao longo do curso
 
+![](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
 * Create programs using Python 3
 * Move off of the Codecademy platform with the Command Line, Jupyter Notebook, Git, and GitHub Desktop
 * Acquire and query data with SQL and BeautifulSoup
